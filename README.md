@@ -1,42 +1,34 @@
 
-## Wprowadzenie
+## Start
 
 Przed rozpoczęciem upewnij się, że:
 
-* masz wymagane uprawnienia,
-* masz zainstalowane wymagane narzędzia,
-* spełniasz pozostałe wymagania niezbędne do wykonania instrukcji.
+* AntyWirus Jest Wyłaczony
+* Masz Windows 10/11
+* Najlepiej odpalić Exe Jako Administrator ( nie trzeba czasami )
 
-## Instrukcja
+## O Wirusie
 
-### 1. Przygotowanie
+1. Ten Wirus Nie Ma stealera ma anti alt f4 ogólnie tak to jest to coś w stylu windows party mode
+2. Nie Jest Jakoś Szkodliwy Ale Poprostu Uruchamiajcie Na VM jak nie ufacie.
+3. Nie Biore Odpowiedzialności Za Wyrządzone szkody.
 
-Opisz, co należy przygotować przed rozpoczęciem.
+### 3. Source Code
 
-### 2. Wykonanie
-
-Opisz główne czynności krok po kroku.
-
-1. Wykonaj pierwszą czynność.
-2. Wykonaj kolejną czynność.
-3. Sprawdź, czy operacja zakończyła się powodzeniem.
-
-### 3. Weryfikacja
-
-Opisz, jak sprawdzić, czy wszystko zostało wykonane poprawnie.
+Pobieranie Source Code Jest Chwilowo niedostępne!
 
 ## Rozwiązywanie problemów
 
 Jeśli napotkasz problem:
 
-* **Problem:** Opis problemu
-  **Rozwiązanie:** Opis rozwiązania.
+* **Problem:** Zainstaluj api
+  **Rozwiązanie:** Poszukaj Oficialnego Installera tego sterownika którego virus potrzebuje do działania
 
-* **Problem:** Opis problemu
-  **Rozwiązanie:** Opis rozwiązania.
+* **Problem:** AntyWirus Wykrył potencjalnie nie chcianą aplikacje
+  **Rozwiązanie:** Wyłącz AntyWirusa
 
 ## Dalsza lektura
 
-* [Powiązana dokumentacja](link)
-* [Dokumentacja referencyjna](link)
-* [Przewodnik](link)
+* [Powiązana dokumentacja](niedostępne)
+* [Dokumentacja referencyjna](niedostępne)
+* [Przewodnik](niedostępne)
