@@ -1,16 +1,3 @@
----
-
-title: 'Obsram.exe'
-shortTitle: 'obsram'
-intro: 'exe'
-type: c++
-topics: program
-
-* ''
-  versions: 1.0
-* ''
-
----
 
 ## Wprowadzenie
 
