@@ -1,34 +1,96 @@
+<div align="center">
 
-## Start
+# ⚠️ WARNING ⚠️
+
+<img src="Warning.png" alt="Warning" width="500">
+
+### 🚨 UWAGA — URUCHAMIASZ TEN PROGRAM NA WŁASNĄ ODPOWIEDZIALNOŚĆ 🚨
+
+**Program może powodować nietypowe zachowanie systemu Windows.**
+Jeżeli nie wiesz, co robisz — **nie uruchamiaj go na swoim głównym systemie.**
+
+</div>
+
+---
+
+## 🛠️ Start
 
 Przed rozpoczęciem upewnij się, że:
 
-* AntyWirus Jest Wyłaczony
-* Masz Windows 10/11
-* Najlepiej odpalić Exe Jako Administrator ( nie trzeba czasami )
+* 🛡️ **Antywirus jest wyłączony**
+* 💻 Używasz **Windows 10 lub Windows 11**
+* 👑 Najlepiej uruchomić `.exe` **jako Administrator** *(czasami nie jest to wymagane)*
+* 🧪 Zalecane jest uruchomienie programu na **maszynie wirtualnej (VM)**
 
-## O Wirusie
+> ⚠️ **Uruchamiasz program na własne ryzyko.**
 
-1. Ten Wirus Nie Ma stealera ma anti alt f4 ogólnie tak to jest to coś w stylu windows party mode
-2. Nie Jest Jakoś Szkodliwy Ale Poprostu Uruchamiajcie Na VM jak nie ufacie.
-3. Nie Biore Odpowiedzialności Za Wyrządzone szkody.
+---
 
-### 3. Source Code
+## 🦠 O wirusie
 
-Pobieranie Source Code Jest Chwilowo niedostępne!
+> **Informacja:** Projekt jest programem typu *Windows Party Mode* i został stworzony w celach rozrywkowych/testowych.
 
-## Rozwiązywanie problemów
+1. 🔒 Program **nie posiada stealera**.
+2. 🚫 Program posiada mechanizm **Anti Alt+F4**.
+3. 🪟 Jego działanie jest zbliżone do różnych programów typu **Windows Party Mode**.
+4. ⚠️ Program może powodować nietypowe zachowanie systemu, dlatego **zalecane jest używanie VM**.
+5. ❗ **Nie ponoszę odpowiedzialności za jakiekolwiek szkody** wynikające z uruchomienia programu.
 
-Jeśli napotkasz problem:
+---
 
-* **Problem:** Zainstaluj api
-  **Rozwiązanie:** Poszukaj Oficialnego Installera tego sterownika którego virus potrzebuje do działania
+## 📦 Wymagania
 
-* **Problem:** AntyWirus Wykrył potencjalnie nie chcianą aplikacje
-  **Rozwiązanie:** Wyłącz AntyWirusa
+| Wymaganie      | Informacja               |
+| -------------- | ------------------------ |
+| 🪟 System      | Windows 10 / Windows 11  |
+| 🔐 Uprawnienia | Administrator — zalecane |
+| 🧪 VM          | Zalecane                 |
+| 🛡️ Antywirus  | Może wykrywać program    |
 
-## Dalsza lektura
+---
 
-* [Powiązana dokumentacja](niedostępne)
-* [Dokumentacja referencyjna](niedostępne)
-* [Przewodnik](niedostępne)
+## 💻 Source Code
+
+### 🔒 Tymczasowo niedostępny
+
+Pobieranie **Source Code** jest chwilowo niedostępne.
+
+> Source Code może zostać udostępniony w przyszłości.
+
+---
+
+## 🔧 Rozwiązywanie problemów
+
+### ❌ Problem: Brak wymaganego API / sterownika
+
+**Rozwiązanie:**
+Znajdź **oficjalny installer** sterownika/API, którego program wymaga do działania.
+
+---
+
+### 🛡️ Problem: Antywirus wykrył potencjalnie niechcianą aplikację
+
+**Rozwiązanie:**
+Program może być wykrywany przez system antywirusowy ze względu na sposób jego działania.
+
+Jeżeli **świadomie pobrałeś program z tego repozytorium i ufasz jego źródłu**, możesz przeanalizować alert i zdecydować, czy chcesz go uruchomić.
+
+> ⚠️ **Nie wyłączaj zabezpieczeń systemu bez upewnienia się, co dokładnie uruchamiasz.**
+
+---
+
+## 📚 Dalsza lektura
+
+* 📖 [Powiązana dokumentacja](niedostępne)
+* 📑 [Dokumentacja referencyjna](niedostępne)
+* 📘 [Przewodnik](niedostępne)
+
+---
+
+<div align="center">
+
+### ⚠️ USE AT YOUR OWN RISK ⚠️
+
+**Made for testing / entertainment purposes.**
+
+</div>
