@@ -7,8 +7,6 @@
 <td align="center">
 <img src="Warning.png" alt="Warning" width="250">
 </td>
-<td align="center">
-<img src="Icon.png" alt="Icon" width="150">
 </td>
 </tr>
 </table>
